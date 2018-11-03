@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Sports_Innovation_Challenge.iml" filepath="$PROJECT_DIR$/.idea/Sports_Innovation_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SICBackEnd.iml" filepath="$PROJECT_DIR$/SICBackEnd.iml" />
     </modules>
   </component>
 </project>

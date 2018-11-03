@@ -16,7 +16,7 @@ public class ServerApplication extends Application<ServerConfiguration> {
 
     @Override
     public String getName() {
-        return "StockWatchServer";
+        return "Flagger Server";
     }
 
     @Override
