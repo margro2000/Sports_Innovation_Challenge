@@ -1,0 +1,1 @@
+java -jar target\Backend-1.0-SNAPSHOT.jar server Backend.yml
