@@ -1,0 +1,6 @@
+com\config\resources\ServerResource.class
+com\config\ServerConfiguration.class
+com\config\resources\ServerResource2.class
+com\config\ServerApplication.class
+com\config\health\TemplateHealthCheck.class
+com\config\ServerModule.class
