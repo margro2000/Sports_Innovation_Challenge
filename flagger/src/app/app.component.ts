@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 
 export class AppComponent {
-  title = "Athlete Recruitment Flagger";
+  title = 'app';
 }
+

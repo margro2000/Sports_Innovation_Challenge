@@ -1,0 +1,26 @@
+nav {
+  background: #2D2E2E;
+  height: 100%;
+  width: 200px;
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+
+      a {
+        color: #fff;
+        padding: 20px;
+        display: block;
+        font-size: 20px;
+      }
+
+      .activated {
+        background-color: #00a8ff;
+      }
+    }
+  }
+
+}

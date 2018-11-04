@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="afe11b02-089c-4a8f-8bfb-b4bf0a56808e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
@@ -39,6 +40,19 @@
       <change beforePath="$PROJECT_DIR$/flagger/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/flagger/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flagger/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/flagger/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flagger/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/flagger/src/app/app.module.ts" afterDir="false" />
+=======
+    <list default="true" id="00506055-4dea-40f8-a15d-5cb44c5f275e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/flagger/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/flagger/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagger/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/flagger/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagger/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flagger/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagger/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/flagger/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagger/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/flagger/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagger/src/app/search-bar/search-bar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagger/src/app/search-bar/search-bar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagger/src/app/search-bar/search-bar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagger/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flagger/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagger/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/flagger/src/styles.scss" afterDir="false" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,6 +64,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
+<<<<<<< HEAD
     <session id="396034020">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
@@ -77,26 +92,69 @@
           <entry key="JSON" value="1" />
           <entry key="SCSS" value="20" />
           <entry key="TypeScript" value="23" />
+=======
+    <session id="-586694857">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="9" />
+          <entry key="js" value="2" />
+          <entry key="scss" value="6" />
+          <entry key="ts" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="9" />
+          <entry key="JavaScript" value="2" />
+          <entry key="SCSS" value="6" />
+          <entry key="TypeScript" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="2" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="html" value="1012" />
           <entry key="json" value="577" />
           <entry key="scss" value="1004" />
           <entry key="ts" value="573" />
+=======
+          <entry key="html" value="204" />
+          <entry key="scss" value="458" />
+          <entry key="ts" value="32" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="HTML" value="1012" />
           <entry key="JSON" value="577" />
           <entry key="SCSS" value="1004" />
           <entry key="TypeScript" value="573" />
+=======
+          <entry key="HTML" value="204" />
+          <entry key="SCSS" value="458" />
+          <entry key="TypeScript" value="32" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
         </counts>
       </usages-collector>
     </session>
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
@@ -104,27 +162,79 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+=======
+  <component name="FavoritesManager">
+    <favorites_list name="Sports_Innovation_Challenge" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flagger/src/app/posts/posts.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flagger/src/app/posts/posts.component.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="169" column="32" selection-start-line="169" selection-start-column="32" selection-end-line="169" selection-end-column="32" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/flagger/src/app/post/post.component.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="805">
               <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+=======
+        <entry file="file://$PROJECT_DIR$/flagger/src/app/posts/posts.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>light</find>
+      <find>expo</find>
+      <find>dark</find>
+      <find>css</find>
+      <find>user wo</find>
+      <find>search</find>
+      <find>url</find>
+    </findStrings>
+  </component>
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/flagger/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/flagger/src/app/twit-profile-box/twit-profile-box.component.ts" />
         <option value="$PROJECT_DIR$/flagger/src/app/profiles-viewbox/profiles-viewbox.component.scss" />
@@ -144,6 +254,27 @@
         <option value="$PROJECT_DIR$/flagger/src/app/posts/posts.component.scss" />
         <option value="$PROJECT_DIR$/flagger/src/app/posts/posts.component.html" />
         <option value="$PROJECT_DIR$/flagger/src/app/post/post.component.scss" />
+=======
+        <option value="$PROJECT_DIR$/flagger/src/app/search-bar/search-bar.component.html" />
+        <option value="$PROJECT_DIR$/flagger/src/app/search-bar/search-bar.service.ts" />
+        <option value="$PROJECT_DIR$/flagger/src/app/app.service.ts" />
+        <option value="$PROJECT_DIR$/flagger/src/app/search-bar/search-bar.component.ts" />
+        <option value="$PROJECT_DIR$/flagger/src/app/config.js" />
+        <option value="$PROJECT_DIR$/flagger/src/app/index.html" />
+        <option value="$PROJECT_DIR$/flagger/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/flagger/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/flagger/src/app/app.component.scss" />
+        <option value="$PROJECT_DIR$/flagger/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/flagger/src/styles.scss" />
+        <option value="$PROJECT_DIR$/flagger/src/index.html" />
+        <option value="$PROJECT_DIR$/flagger/src/app/sidebar/sidebar.component.html" />
+        <option value="$PROJECT_DIR$/flagger/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/flagger/src/app/sidebar/sidebar.component.scss" />
+        <option value="$PROJECT_DIR$/flagger/src/app/posts/posts.component.js" />
+        <option value="$PROJECT_DIR$/flagger/src/app/posts/posts.component.ts" />
+        <option value="$PROJECT_DIR$/flagger/src/app/posts/posts.component.html" />
+        <option value="$PROJECT_DIR$/flagger/src/app/posts/posts.component.scss" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
       </list>
     </option>
   </component>
@@ -158,6 +289,7 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+<<<<<<< HEAD
       <path value="$PROJECT_DIR$/flagger/node_modules/@angular-devkit/architect/package.json" />
       <path value="$PROJECT_DIR$/flagger/node_modules/@angular-devkit/architect/test/package.json" />
       <path value="$PROJECT_DIR$/flagger/node_modules/@angular-devkit/build-angular/package.json" />
@@ -1322,6 +1454,18 @@
     <option name="width" value="1629" />
     <option name="height" value="1728" />
   </component>
+=======
+      <path value="$PROJECT_DIR$/flagger/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="291" />
+    <option name="y" value="23" />
+    <option name="width" value="1116" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -1352,6 +1496,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="Sports_Innovation_Challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sports_Innovation_Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="flagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sports_Innovation_Challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sports_Innovation_Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="flagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sidebar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sports_Innovation_Challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sports_Innovation_Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="flagger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
           </expand>
           <select />
         </subPane>
@@ -1360,6 +1530,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -1367,6 +1538,21 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="ts.external.directory.path" value="C:\Users\luoje\Documents\GitHub\Sports_Innovation_Challenge\flagger\node_modules\typescript\lib" />
+=======
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/flagger/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flagger/src/app/posts" />
+      <recent name="$PROJECT_DIR$/flagger/src/app" />
+      <recent name="$PROJECT_DIR$/flagger/src/app/search-bar" />
+    </key>
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1385,16 +1571,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="afe11b02-089c-4a8f-8bfb-b4bf0a56808e" name="Default Changelist" comment="" />
       <created>1541280977091</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541280977091</updated>
       <workItem from="1541280980390" duration="11639000" />
+=======
+      <changelist id="00506055-4dea-40f8-a15d-5cb44c5f275e" name="Default Changelist" comment="" />
+      <created>1541283092991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541283092991</updated>
+      <workItem from="1541283095381" duration="2770000" />
+      <workItem from="1541288382775" duration="5791000" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="11639000" />
   </component>
   <component name="ToolWindowManager">
@@ -1411,15 +1608,47 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961783" />
+=======
+    <option name="totallyTimeSpent" value="8561000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="291" y="23" width="1116" height="821" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989775" visible="true" weight="0.3260274" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010225" side_tool="true" weight="0.40249434" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921812" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="TODO" order="6" />
+=======
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921812" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32921812" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32921812" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+<<<<<<< HEAD
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1428,11 +1657,37 @@
         <option value="$PROJECT_DIR$/flagger/node_modules/karma/config.tpl.js" />
       </list>
     </option>
+=======
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989775" visible="true" weight="0.3260274" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010225" side_tool="true" weight="0.40249434" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921812" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921812" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32921812" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32921812" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/flagger/src/app/profiles-viewbox/profiles-viewbox.component.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1443,18 +1698,44 @@
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/search-bar/search-bar.service.ts" />
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/app.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/search-bar/search-bar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" selection-end-column="6" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flagger/src/app/app.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-588">
+=======
+        <state>
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
           <folding>
             <element signature="e#0#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/flagger/src/app/app.component.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-414" />
@@ -1492,12 +1773,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+=======
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/search-bar/search-bar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/sidebar/sidebar.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/flagger/src/app/profiles-viewbox/profiles-viewbox.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -1557,13 +1886,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="805">
           <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/sidebar/sidebar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/sidebar/sidebar.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/posts/posts.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/posts/posts.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flagger/src/app/posts/posts.component.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="161">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+=======
+        <state relative-caret-position="332">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flagger/src/app/posts/posts.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="169" column="32" selection-start-line="169" selection-start-column="32" selection-end-line="169" selection-end-column="32" />
+>>>>>>> 9b766e6447bc2bee3e62068e9dd1e1966a315e75
         </state>
       </provider>
     </entry>
