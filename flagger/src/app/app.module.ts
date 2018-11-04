@@ -14,7 +14,7 @@ import {DetailsComponent} from "./details/details.component";
 import { PotentialsBoxComponent } from './potentials-box/potentials-box.component';
 import { CautionBoxComponent } from './caution-box/caution-box.component';
 import { PotentialProfileBoxComponent } from './potential-profile-box/potential-profile-box.component';
-
+import { FormsModule } from '@angular/forms'
 
 @NgModule({
   declarations: [
@@ -35,7 +35,8 @@ import { PotentialProfileBoxComponent } from './potential-profile-box/potential-
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 
 
 @Component({
@@ -9,11 +9,19 @@ import { Component, OnInit } from '@angular/core';
 
 export class PostsComponent implements OnInit {
 
-  constructor() {
+  textFieldInput: string;
+  trueControversial = false;
+  trueProfanity = false;
+  trueProspects = false;
+  trueInterest = false;
 
+  constructor() {
   }
 
   ngOnInit() {
   }
 
+  doThis() {
+    console.log(this.textFieldInput + " " + this.trueControversial + " " + this.trueProfanity + " " + this.trueProspects + " " + this.trueInterest);
+  }
 }

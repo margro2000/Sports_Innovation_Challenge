@@ -16,7 +16,13 @@
 
 
      <br>
-      Interested Universities: {{ intUniversities }} <br>
+     <div>Interested Universities:</div>
+     <app-post-container [postsContents]="intUniversities"></app-post-container>
     </div>
+
+  <div id="schoolFit">
+    Calculated School Fit: {{ percentFit }}
+
+
   </div>
 </div>

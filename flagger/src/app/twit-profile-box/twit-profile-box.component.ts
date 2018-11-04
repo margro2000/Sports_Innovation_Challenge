@@ -20,6 +20,9 @@ export class TwitProfileBoxComponent implements OnInit {
   @Input()
   profile_pic_url: string;
 
+  @Input()
+  percentFit: string;
+
   ngOnInit() {
   }
 

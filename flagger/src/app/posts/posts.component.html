@@ -1,7 +1,7 @@
 
 <div class="dropdown">
     <div class="topnav">
-      <input type="text" placeholder="Select Athlete Database...">
+      <input type="text" placeholder="Select Athlete Database..." [(ngModel)]="textFieldInput">
     </div>
     <button class="dropbtn"></button>
     <div class="dropdown-content">
@@ -9,27 +9,31 @@
     </div>
 
     <label class="container">Controversial Posts
-      <input type="checkbox">
+      <input type="checkbox" [checked]="trueControversial"
+             (change)="trueControversial = !trueControversial">
       <span class="checkmark"></span>
     </label>
 
     <label class="container">Profanity
-      <input type="checkbox">
+      <input type="checkbox" [checked]="trueProfanity"
+             (change)="trueProfanity = !trueProfanity">
       <span class="checkmark"></span>
     </label>
 
     <label class="container"> Prospects
-      <input type="checkbox">
+      <input type="checkbox" [checked]="trueProspects"
+             (change)="trueProspects = !trueProspects">
       <span class="checkmark"></span>
     </label>
 
     <label class="container">Interest in Georgia Tech
-      <input type="checkbox">
+      <input type="checkbox" [checked]="trueInterest"
+             (change)="trueInterest = !trueInterest">
       <span class="checkmark"></span>
     </label>
 
   <a routerLink="/profiles-viewbox">
-    <button class="btn Generate">Generate</button>
+    <button class="btn Generate" (click)="doThis()">Generate</button>
   </a>
 
 
