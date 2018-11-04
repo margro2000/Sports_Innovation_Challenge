@@ -21,7 +21,7 @@
   </nav>
 </aside>
 
-<div class="root__container" >
+<div class="root__container">
   <header [ngClass]="{'main__header-dark': darkModeActive}" class="main__header">
 
     <div class="left__section">
@@ -42,16 +42,16 @@
       <span class="mode-toggle__text">Light</span>
 
       <label class="toggle-button__container">
-        <input (click)="modeToggleSwitch()" type="checkbox" class="mode-toggle__input" />
+        <input (click)="modeToggleSwitch()" type="checkbox" class="mode-toggle__input"/>
         <span [ngClass]="{'mode-toggle__bg-checked': darkModeActive}" class="mode-toggle__bg"></span>
         <span [ngClass]="{'mode-toggle__circle-checked': darkModeActive}" class="mode-toggle__circle"></span>
       </label>
-
-
       <span class="mode-toggle__text">Dark</span>
     </div>
 
   </header>
+
+  <app-profiles-viewbox></app-profiles-viewbox>
 
   <!-- Main Content -->
 
@@ -67,3 +67,4 @@
     <small class="copyright__text">Copyright © 2018 Minimus</small>
   </footer>
 </div>
+

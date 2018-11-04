@@ -1,0 +1,38 @@
+{
+  "content": [
+    {
+      "name": "John Doe",
+      "posts": [
+        "this is one of my posts",
+        "i really don't like you"
+      ],
+      "intUniversities": [
+        "UGA",
+        "Florida",
+        "Ole Miss"
+      ]
+    },
+    {
+      "name": "Mary Jane",
+      "posts": [
+        "I did really well in this tournament",
+        "wow what a great view"
+      ],
+      "intUniversities": [
+        "Harvard",
+        "Yale",
+        "Princeton"
+      ]
+    },
+    {
+      "name": "Michael Brown",
+      "posts": [
+        "this is a post",
+        "oranges"
+      ],
+      "intUniversities": [
+
+      ]
+    }
+  ]
+}

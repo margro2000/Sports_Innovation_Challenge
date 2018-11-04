@@ -1,0 +1,7 @@
+<div id="viewbox">
+  <ng-container *ngFor="let profile of profiles">
+    <app-twit-profile-box [name]='profile.name'
+                          [posts]='profile.posts' [intUniversities]="profile.intUniversities">
+    </app-twit-profile-box>
+  </ng-container>
+</div>
