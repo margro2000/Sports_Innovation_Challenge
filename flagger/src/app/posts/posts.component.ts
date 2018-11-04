@@ -9,7 +9,11 @@ import { Component, OnInit } from '@angular/core';
 
 export class PostsComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+
+  }
+
+
 
   ngOnInit() {
   }
