@@ -1,0 +1,42 @@
+{
+  "content": [
+    {
+      "name": "John Doe",
+      "posts": [
+        "this is one of my posts",
+        "i really don't like you"
+      ],
+      "intUniversities": [
+        "UGA",
+        "Florida",
+        "Ole Miss"
+      ],
+      "profile_pic_url": "https://www.mensjournal.com/wp-content/uploads/mf/runner-1280.jpg?w=1200&h=675&crop=1"
+
+    },
+    {
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjdmdSD7LneAhUwTd8KHa8wBs4QjRx6BAgBEAU&url=https%3A%2F%2Ftribhssn.triblive.com%2Fcategory%2Fbasketball%2Fpage%2F80%2F&psig=AOvVaw2iRUmF7z0ikwlfMob8UzRg&ust=1541390177448795",
+      "name": "Mary Jane",
+      "posts": [
+        "Why we are rated the #1 recruiting service by our clients"
+      ],
+      "intUniversities": [
+        "Harvard",
+        "Yale",
+        "Princeton"
+      ],
+      "profile_pic_url": "https://www.mensjournal.com/wp-content/uploads/mf/runner-1280.jpg?w=1200&h=675&crop=1"
+    },
+    {
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjdmdSD7LneAhUwTd8KHa8wBs4QjRx6BAgBEAU&url=https%3A%2F%2Ftribhssn.triblive.com%2Fcategory%2Fbasketball%2Fpage%2F80%2F&psig=AOvVaw2iRUmF7z0ikwlfMob8UzRg&ust=1541390177448795",
+      "name": "May Brown",
+      "posts": [
+        "this is a post",
+        "oranges"
+      ],
+      "intUniversities": [
+      ],
+      "profile_pic_url": "https://www.mensjournal.com/wp-content/uploads/mf/runner-1280.jpg?w=1200&h=675&crop=1"
+    }
+  ]
+}

@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PostsComponent } from './posts.component';
+import { ProfilesViewboxComponent } from './profiles-viewbox.component';
 
-describe('PostComponent', () => {
-  let component: PostsComponent;
-  let fixture: ComponentFixture<PostsComponent>;
+describe('ProfilesViewboxComponent', () => {
+  let component: ProfilesViewboxComponent;
+  let fixture: ComponentFixture<ProfilesViewboxComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ PostsComponent ]
+      declarations: [ ProfilesViewboxComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(PostsComponent);
+    fixture = TestBed.createComponent(ProfilesViewboxComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

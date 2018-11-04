@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PostsComponent } from './posts.component';
+import { TwitProfileBoxComponent } from './twit-profile-box.component';
 
-describe('PostComponent', () => {
-  let component: PostsComponent;
-  let fixture: ComponentFixture<PostsComponent>;
+describe('PotentialProfileBoxComponent', () => {
+  let component: TwitProfileBoxComponent;
+  let fixture: ComponentFixture<TwitProfileBoxComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ PostsComponent ]
+      declarations: [ TwitProfileBoxComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(PostsComponent);
+    fixture = TestBed.createComponent(TwitProfileBoxComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

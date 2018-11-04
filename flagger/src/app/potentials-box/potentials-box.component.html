@@ -1,0 +1,19 @@
+<div class="my-container">
+
+
+  <h1>
+    Lookout
+  </h1>
+
+  <div id="potentials-box">
+    <ng-container *ngFor="let profile of profiles">
+      <app-potential-profile-box [name]='profile.name'
+                            [posts]='profile.posts'
+                            [intUniversities]="profile.intUniversities"
+                            [profile_pic_url]="profile.profile_pic_url"
+      >
+      </app-potential-profile-box>
+    </ng-container>
+  </div>
+
+</div>
