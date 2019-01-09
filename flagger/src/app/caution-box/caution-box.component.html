@@ -1,22 +1,22 @@
 <div class="my-container">
 
 
-<h1>
-  CAUTION
-</h1>
+  <h1>
+    CAUTION
+  </h1>
 
-<div id="caution-box">
-<ng-container *ngFor="let profile of profiles">
-  <app-twit-profile-box [name]='profile.name'
-                        [posts]='profile.posts'
-                        [intUniversities]="profile.intUniversities"
-                        [profile_pic_url]="profile.profile_pic_url"
-                        [percentFit] = "profile.percentFit"
-  >
-  </app-twit-profile-box>
+  <div id="caution-box">
+    <ng-container *ngFor="let profile of profiles">
+      <app-twit-profile-box [name]='profile.name'
+                            [posts]='profile.posts'
+                            [intUniversities]="profile.intUniversities"
+                            [profile_pic_url]="profile.profile_pic_url"
+                            [percentFit]="profile.percentFit"
+      >
+      </app-twit-profile-box>
 
 
-</ng-container>
-</div>
+    </ng-container>
+  </div>
 
 </div>

@@ -1,4 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
+import {HttpClient, HttpHeaders, HttpParams} from "@angular/common/http";
 
 
 @Component({
@@ -8,6 +9,7 @@ import {Component, Input, OnInit} from '@angular/core';
 })
 
 export class PostsComponent implements OnInit {
+  JSON_LINK = 'localhost:9000/data/';
 
   textFieldInput: string;
   trueControversial = false;
@@ -15,13 +17,14 @@ export class PostsComponent implements OnInit {
   trueProspects = false;
   trueInterest = false;
 
-  constructor() {
+  this_data: any;
+
+  constructor(private http: HttpClient) {
   }
 
   ngOnInit() {
   }
 
   doThis() {
-    console.log(this.textFieldInput + " " + this.trueControversial + " " + this.trueProfanity + " " + this.trueProspects + " " + this.trueInterest);
   }
 }
