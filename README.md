@@ -20,6 +20,7 @@ Backend
   - /b calls two classes to grab tweets; twitterer and twitter. I have no idea where twitter is from, but twitterer is from Twitterer.Java
   - Checks if a profile is highschool by checking the bio for a height statement, or a grad year
     - These are implemented with manual checks for years/height
+    - Looking ahead, we need a better method of doing this.
   - Checks a list of handles for highschoolers using the above function.
   - Has a method to grab URLs
   - Has a method to grab the profile name
